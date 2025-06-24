@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkz_tools_documentation=self.webpackChunkz_tools_documentation||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/ZTools-Documentation/blog","blogTitle":"Blog","authorsListPath":"/ZTools-Documentation/blog/authors"}')}}]);

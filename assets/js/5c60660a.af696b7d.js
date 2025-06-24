@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkz_tools_documentation=self.webpackChunkz_tools_documentation||[]).push([[8492],{7164:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/ZTools-Documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
